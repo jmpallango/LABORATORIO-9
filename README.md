@@ -52,9 +52,44 @@ tanto magnitud como ángulo.
 
 PROCEDIMIENTO:
 
+Sin emplear calculadora. Transforme a su forma polar:
+
+a) 2 + 3 j =
+
+b) -8 + 6.2 j =
+
+c) 4.3 – 2.8 j =
+
+d) -6 – 3.2 j =
+
+Sin emplear calculadora. Transforme a su forma rectangular:
+
+a) 36 | -10° =
+
+b) 28.7 | 135° =
+
+c) 11.2 | 28° =
+
+d) 45 | -117.9° =
+
+Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar:
+
+![image](https://user-images.githubusercontent.com/105695077/186901308-43e5cc07-0a84-4e25-a663-b0f32fb26797.png)
+
+Resuelva las operaciones anteriores por medio de la calculadora y compare
+resultados.
+
+
+
+NOTA: Emplee solo una calculadora física o virtual para resolver las operaciones. No debe emplear aplicaciones web y las operaciones deben realizarse en una sola operación.
+
 # VIDEO
 
 # CONCLUSIONES:
+
+Un fasor es un vector representado de una forma matematica como un número complejo y respresentan una onda sinusoidal donde su componentes derciben la amplitud y el ángulo de la onda, ademas, los fasores permiten el cálculo de los voltajes o corrinetes instantáneas.
+
+La calculador cientifica permite reealizar operaciónes don números complejos pero previo al cálculo se debe especificar a la calculadora que se va atrbajar con números complejos y para ello se debe modificar el modo en el que se enecuntra originalmente la calculadora.
 
 # BIBLIOGRAFÍA:
 
