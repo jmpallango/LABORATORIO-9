@@ -72,9 +72,16 @@ c) 11.2 | 28° =
 
 d) 45 | -117.9° =
 
+![WhatsApp Image 2022-08-26 at 9 20 53 AM](https://user-images.githubusercontent.com/105695077/186935337-72a5a979-01b7-4e74-9898-77122d159744.jpeg)
+
+
 Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar:
 
 ![image](https://user-images.githubusercontent.com/105695077/186901308-43e5cc07-0a84-4e25-a663-b0f32fb26797.png)
+
+![CamScanner 08-26-2022 09 58_page-0001](https://user-images.githubusercontent.com/105695077/186935124-7b741180-be44-4a63-92ce-17f8719dcf7a.jpg)
+![CamScanner 08-26-2022 09 58_page-0002](https://user-images.githubusercontent.com/105695077/186935176-0101beec-61a0-4782-8dc4-bb3d47401413.jpg)
+![CamScanner 08-26-2022 09 58_page-0003](https://user-images.githubusercontent.com/105695077/186935197-c814e87c-5e2a-462d-a9ff-44cb75e4cfd8.jpg)
 
 Resuelva las operaciones anteriores por medio de la calculadora y compare
 resultados.
