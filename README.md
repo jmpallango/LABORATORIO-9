@@ -62,6 +62,9 @@ c) 4.3 – 2.8 j =
 
 d) -6 – 3.2 j =
 
+![WhatsApp Image 2022-08-26 at 10 17 50 AM](https://user-images.githubusercontent.com/105695077/186946532-023fe7af-194d-4dab-9cd0-03e954d8c364.jpeg)
+![image](https://user-images.githubusercontent.com/105695077/186946709-c87d2a38-ba07-4ce9-b9e8-e9fd29efa360.png)
+
 Sin emplear calculadora. Transforme a su forma rectangular:
 
 a) 36 | -10° =
