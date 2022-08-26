@@ -146,6 +146,8 @@ NOTA: Emplee solo una calculadora física o virtual para resolver las operacione
 
 # VIDEO
 
+https://youtu.be/OAPgFqiP9Fk
+
 # CONCLUSIONES:
 
 Un fasor es un vector representado de una forma matematica como un número complejo y respresentan una onda senosoidal donde su componentes derciben la amplitud y el ángulo de la onda, ademas, los fasores permiten el cálculo de los voltajes o corrinetes instantáneas.
