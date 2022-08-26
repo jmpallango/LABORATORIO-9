@@ -89,7 +89,42 @@ Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y repre
 Resuelva las operaciones anteriores por medio de la calculadora y compare
 resultados.
 
+a) 2 + 3 j =
 
+b) -8 + 6.2 j =
+
+c) 4.3 – 2.8 j =
+
+d) -6 – 3.2 j =
+
+![WhatsApp Image 2022-08-26 at 11 02 46 AM](https://user-images.githubusercontent.com/105695077/186946925-86c11e12-059b-43ea-b547-7e79a2c7ba7c.jpeg)
+![WhatsApp Image 2022-08-26 at 11 02 47 AM](https://user-images.githubusercontent.com/105695077/186946977-8b328cb1-796e-4f1f-9443-154024e7bde4.jpeg)
+![WhatsApp Image 2022-08-26 at 11 02 47 AM (1)](https://user-images.githubusercontent.com/105695077/186947013-6671bf46-de23-44c7-b7be-cf82c01c0598.jpeg)
+![WhatsApp Image 2022-08-26 at 11 02 48 AM](https://user-images.githubusercontent.com/105695077/186947054-bc3493c3-c466-49e0-bd24-55b114e1ea75.jpeg)
+
+a) 36 | -10° =
+
+b) 28.7 | 135° =
+
+c) 11.2 | 28° =
+
+d) 45 | -117.9° =
+
+![WhatsApp Image 2022-08-26 at 11 02 56 AM](https://user-images.githubusercontent.com/105695077/186947161-158445f1-faa7-49d3-9c77-9f6880a693c0.jpeg)
+![WhatsApp Image 2022-08-26 at 11 02 56 AM (1)](https://user-images.githubusercontent.com/105695077/186947182-43b773e9-46f2-406c-b249-b0f12286899e.jpeg)
+![WhatsApp Image 2022-08-26 at 11 02 57 AM](https://user-images.githubusercontent.com/105695077/186947208-2a632efd-e196-4ed1-8a42-d2bbeec66e86.jpeg)
+![WhatsApp Image 2022-08-26 at 11 02 57 AM (1)](https://user-images.githubusercontent.com/105695077/186947253-a3e29a79-dc9d-48c7-8423-e660a14562d5.jpeg)
+
+![image](https://user-images.githubusercontent.com/105695077/186901308-43e5cc07-0a84-4e25-a663-b0f32fb26797.png)
+
+![WhatsApp Image 2022-08-26 at 11 03 08 AM](https://user-images.githubusercontent.com/105695077/186947359-42c50ce3-1207-4f84-8f20-b96e39aa3df4.jpeg)
+![WhatsApp Image 2022-08-26 at 11 03 09 AM](https://user-images.githubusercontent.com/105695077/186947387-3e9c05f8-08b0-4a00-936d-ac9401a27a8f.jpeg)
+
+![WhatsApp Image 2022-08-26 at 11 03 09 AM (1)](https://user-images.githubusercontent.com/105695077/186947409-c6ed5d59-aae8-46cf-b2b9-4eee7e0a9cb1.jpeg)
+![WhatsApp Image 2022-08-26 at 11 03 10 AM](https://user-images.githubusercontent.com/105695077/186947446-0717999e-37f7-4e05-a331-85a4f7016882.jpeg)
+
+![WhatsApp Image 2022-08-26 at 11 03 10 AM (1)](https://user-images.githubusercontent.com/105695077/186947479-96195e9d-bc14-4368-821d-5ef7ab1a58ca.jpeg)
+![WhatsApp Image 2022-08-26 at 11 03 11 AM](https://user-images.githubusercontent.com/105695077/186947516-1b28c18f-993a-4701-8b66-1510d646e32a.jpeg)
 
 NOTA: Emplee solo una calculadora física o virtual para resolver las operaciones. No debe emplear aplicaciones web y las operaciones deben realizarse en una sola operación.
 
