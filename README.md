@@ -49,7 +49,13 @@ Resolver los ejercicios propuestos popr el docente con la finalidad de ayudarnos
 ![image](https://user-images.githubusercontent.com/105695077/186951270-32496545-153f-4eca-b310-560df376446d.png)
 ![image](https://user-images.githubusercontent.com/105695077/186951303-7d0f5934-cfbc-4c3b-8989-d86f825d850d.png)
 ![image](https://user-images.githubusercontent.com/105695077/186951336-16752c1c-2aa8-468c-83bc-f02101316283.png)
-
+![image](https://user-images.githubusercontent.com/105695077/186951486-0837e275-c79a-4bbc-b756-c9ac7e102c77.png)
+![image](https://user-images.githubusercontent.com/105695077/186951551-e78ecc0e-2f7b-4c42-9394-8159d10c2c5e.png)
+![image](https://user-images.githubusercontent.com/105695077/186951588-4e01321e-1d69-494e-baf8-602e15c017c3.png)
+![image](https://user-images.githubusercontent.com/105695077/186951605-7aefb6c5-3d93-4935-8292-abaf4ee573ad.png)
+![image](https://user-images.githubusercontent.com/105695077/186951633-3e417ef6-21ea-4b31-92c5-f501629fab2d.png)
+![image](https://user-images.githubusercontent.com/105695077/186951713-e23732c3-3e5b-4800-837b-dfb4e1515053.png)
+![image](https://user-images.githubusercontent.com/105695077/186951755-2f03d215-4873-4303-a70c-3531eb42972e.png)
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
