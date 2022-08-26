@@ -39,6 +39,16 @@ Resolver los ejercicios propuestos popr el docente con la finalidad de ayudarnos
 
 # MARCO TEORICO:
 
+![image](https://user-images.githubusercontent.com/105695077/186950976-efcd5fac-8cd9-48d4-aeaf-7c6fe90aa486.png)
+![image](https://user-images.githubusercontent.com/105695077/186951017-912a56a3-0d94-4d14-b95d-153931ac49ea.png)
+![image](https://user-images.githubusercontent.com/105695077/186951036-aa79076e-187f-470a-a1d7-464bc74fef81.png)
+![image](https://user-images.githubusercontent.com/105695077/186951086-e150b9c1-2cd2-4a75-9fc8-8edf13694e56.png)
+![image](https://user-images.githubusercontent.com/105695077/186951153-77cb6010-9d51-4702-80a7-f453e22c3dea.png)
+![image](https://user-images.githubusercontent.com/105695077/186951171-badc8b32-2978-40d6-a188-88f341d8d967.png)
+![image](https://user-images.githubusercontent.com/105695077/186951229-8e4c3e17-df51-4122-b230-f7f0a0bbe85f.png)
+![image](https://user-images.githubusercontent.com/105695077/186951270-32496545-153f-4eca-b310-560df376446d.png)
+![image](https://user-images.githubusercontent.com/105695077/186951303-7d0f5934-cfbc-4c3b-8989-d86f825d850d.png)
+![image](https://user-images.githubusercontent.com/105695077/186951336-16752c1c-2aa8-468c-83bc-f02101316283.png)
 
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
