@@ -87,7 +87,7 @@ NOTA: Emplee solo una calculadora física o virtual para resolver las operacione
 
 # CONCLUSIONES:
 
-Un fasor es un vector representado de una forma matematica como un número complejo y respresentan una onda sinusoidal donde su componentes derciben la amplitud y el ángulo de la onda, ademas, los fasores permiten el cálculo de los voltajes o corrinetes instantáneas.
+Un fasor es un vector representado de una forma matematica como un número complejo y respresentan una onda senosoidal donde su componentes derciben la amplitud y el ángulo de la onda, ademas, los fasores permiten el cálculo de los voltajes o corrinetes instantáneas.
 
 La calculador cientifica permite reealizar operaciónes don números complejos pero previo al cálculo se debe especificar a la calculadora que se va atrbajar con números complejos y para ello se debe modificar el modo en el que se enecuntra originalmente la calculadora.
 
